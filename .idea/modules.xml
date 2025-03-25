@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Behavioural pattern/Behavioural pattern.iml" filepath="$PROJECT_DIR$/Behavioural pattern/Behavioural pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational patterns/Creational patterns.iml" filepath="$PROJECT_DIR$/Creational patterns/Creational patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory design pattern/Factory design pattern.iml" filepath="$PROJECT_DIR$/Factory design pattern/Factory design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton design pattern/Singleton design pattern.iml" filepath="$PROJECT_DIR$/Singleton design pattern/Singleton design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid_principle.iml" filepath="$PROJECT_DIR$/solid_principle.iml" />
+    </modules>
+  </component>
+</project>
